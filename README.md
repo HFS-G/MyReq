@@ -20,32 +20,10 @@ A simple and powerful HTTP request testing tool with a colorful command-line int
 # Clone repository
 git clone https://github.com/HFS-G/MyReq.git
 
-# Navigate to directory
 cd MyReq
 
-# Install requirements
-pip install -r requirements.txt
-
-# Run the program
-python main.py
-```
-
-## 📦 Requirements
-
-```
-colorama
-requests
-```
-
-## 🛠 Installation
-
-1. Install required packages:
-```bash
 pip install colorama requests
-```
 
-2. Run the script:
-```bash
 python main.py
 ```
 
