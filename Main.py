@@ -23,7 +23,7 @@ ___  ___     ______
          __/ |             | |
         |___/              |_|
 {Style.RESET_ALL}
-{Fore.GREEN}Current User: {username}{Style.RESET_ALL}
+{Fore.GREEN}Crate By: @hfsads{Style.RESET_ALL}
 """
     print(logo)
 
